@@ -4,3 +4,5 @@ backend/
 base/__pycache__
 physiot/__pycache__
 api/__pycache__
+.env
+sf.json
